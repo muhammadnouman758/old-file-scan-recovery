@@ -76,7 +76,7 @@ assets/                # App icons, images, and static files
 ### 📸 App Screenshots
 
 Below are screenshots of the app in action:
-
+ <img src="assets/pos-1.png" width="640"/>
 <p align="center">
   <img src="assets/sc-1.png" width="240"/>
   <img src="assets/sc-2.png" width="240"/>
