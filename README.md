@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🗂️ Old File Scan Recovery
 
 ##Old File Scan Recovery## is a privacy-focused Android app for scanning, recovering, and securely managing deleted or lost files (images, videos, audio, documents, and more) from device storage.
@@ -21,10 +21,10 @@
 ## 📲 Getting Started
 
 1. ##Clone the repository:##
-
+````markdown
    ```bash
    git clone https://github.com/your-username/old-file-scan-recovery.git
-````
+`````
 
 2. ##Install dependencies:##
 
