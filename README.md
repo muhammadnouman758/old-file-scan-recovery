@@ -24,17 +24,17 @@
    git clone https://github.com/your-username/old-file-scan-recovery.git
 ````
 
-2. **Install dependencies:**
+2. Install dependencies:
 
-   ```bash
+  
    flutter pub get
-   ```
+  
 
-3. **Run the app:**
+3. Run the app:
 
-   ```bash
+   bash
    flutter run
-   ```
+   
 
 ---
 
@@ -77,9 +77,7 @@ assets/                # App icons, images, and static files
 * `READ/WRITE_EXTERNAL_STORAGE`: Access and recover files in public folders.
 * **Note:** No data is ever collected or transmitted externally.
 
-See [Privacy Policy](./PRIVACY.md) for more.
 
----
 
 ## 📝 Documentation
 
