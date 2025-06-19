@@ -21,9 +21,9 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/old-file-scan-recovery.git
-````
+   git clone https://github.com/your-username/old-file-scan-recovery.git ```
 
+```
 2. Install dependencies:
 
   
@@ -34,7 +34,7 @@
 
    bash
    flutter run
-   
+   ```
 
 ---
 
@@ -61,29 +61,27 @@
 
 ## 📂 Project Structure
 
-```
 lib/
 ├── main.dart          # App entry point
 ├── pages/             # Feature modules (audio, docs, vault, privacy, etc.)
 android/               # Native Android code
 assets/                # App icons, images, and static files
-```
+
 
 ---
 
-## 🔒 Privacy & Permissions
+ 🔒 Privacy & Permissions
 
-* `MANAGE_EXTERNAL_STORAGE`: Required for deep scanning all directories.
-* `READ/WRITE_EXTERNAL_STORAGE`: Access and recover files in public folders.
-* **Note:** No data is ever collected or transmitted externally.
+MANAGE_EXTERNAL_STORAGE: Required for deep scanning all directories.
+READ/WRITE_EXTERNAL_STORAGE`: Access and recover files in public folders.
+Note: No data is ever collected or transmitted externally.
 
 
+ 📝 Documentation
 
-## 📝 Documentation
-
-* 📘 [Help & Support](#)
-* 📄 [All File Permissions Explained](#)
-* 📊 [Data Collection Policy](#)
+📘 [Help & Support](#)
+📄 [All File Permissions Explained](#)
+📊 [Data Collection Policy](#)
 
 ---
 
@@ -97,7 +95,7 @@ Contact: **[developers.nexquagen.tech@gmail.com](mailto:developers.nexquagen.tec
 ## ⚠️ License
 
 This software is for **personal and educational use only**.
-**No production, commercial, or public deployment** is allowed without written permission.
+No production, commercial, or public deployment** is allowed without written permission.
 
 See [LICENSE](./LICENSE) for full terms.
 
@@ -105,7 +103,7 @@ See [LICENSE](./LICENSE) for full terms.
 
 ## 👤 Author
 
-**Muhammad Nouman**
+Muhammad Nouman
 📧 Email: [m.nouman5710@gmail.com](mailto:m.nouman5710@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/muhammad-nouman-8460b62a3)
 💻 [GitHub](https://github.com/muhammadnouman758)
