@@ -1,4 +1,6 @@
 
+
+````markdown
 # 🗂️ Old File Scan Recovery
 
 **Old File Scan Recovery** is a privacy-focused Android app for scanning, recovering, and securely managing deleted or lost files (images, videos, audio, documents, and more) from device storage.
@@ -21,18 +23,18 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/old-file-scan-recovery.git ```
+   git clone https://github.com/your-username/old-file-scan-recovery.git
+````
 
-```
-2. Install dependencies:
+2. **Install dependencies:**
 
-  
+   ```bash
    flutter pub get
-  
+   ```
 
-3. Run the app:
+3. **Run the app:**
 
-   bash
+   ```bash
    flutter run
    ```
 
@@ -61,27 +63,47 @@
 
 ## 📂 Project Structure
 
+```
 lib/
 ├── main.dart          # App entry point
 ├── pages/             # Feature modules (audio, docs, vault, privacy, etc.)
 android/               # Native Android code
 assets/                # App icons, images, and static files
-
+```
 
 ---
 
- 🔒 Privacy & Permissions
+### 📸 App Screenshots
 
-MANAGE_EXTERNAL_STORAGE: Required for deep scanning all directories.
-READ/WRITE_EXTERNAL_STORAGE`: Access and recover files in public folders.
-Note: No data is ever collected or transmitted externally.
+Below are screenshots of the app in action:
 
+<p align="center">
+  <img src="assets/sc-1.png" width="240"/>
+  <img src="assets/sc-2.png" width="240"/>
+  <img src="assets/sc-3.png" width="240"/>
+</p>
 
- 📝 Documentation
+<p align="center">
+  <img src="assets/sc-4.png" width="240"/>
+  <img src="assets/sc-5.png" width="240"/>
+  <img src="assets/sc-6.png" width="240"/>
+</p>
 
-📘 [Help & Support](#)
-📄 [All File Permissions Explained](#)
-📊 [Data Collection Policy](#)
+---
+
+## 🔒 Privacy & Permissions
+
+* `MANAGE_EXTERNAL_STORAGE`: Required for deep scanning all directories.
+* `READ/WRITE_EXTERNAL_STORAGE`: Access and recover files in public folders.
+* **Note:** No data is ever collected or transmitted externally.
+
+---
+
+## 📝 Documentation
+
+* 📘 [Help & Support](#)
+* 📄 [All File Permissions Explained](#)
+* 📊 [Data Collection Policy](#)
 
 ---
 
@@ -95,7 +117,7 @@ Contact: **[developers.nexquagen.tech@gmail.com](mailto:developers.nexquagen.tec
 ## ⚠️ License
 
 This software is for **personal and educational use only**.
-No production, commercial, or public deployment** is allowed without written permission.
+**No production, commercial, or public deployment** is allowed without written permission.
 
 See [LICENSE](./LICENSE) for full terms.
 
@@ -103,8 +125,9 @@ See [LICENSE](./LICENSE) for full terms.
 
 ## 👤 Author
 
-Muhammad Nouman
-📧 Email: [m.nouman5710@gmail.com](mailto:m.nouman5710@gmail.com)
+**Muhammad Nouman**
+📧 [m.nouman5710@gmail.com](mailto:m.nouman5710@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/muhammad-nouman-8460b62a3)
 💻 [GitHub](https://github.com/muhammadnouman758)
 
+```
