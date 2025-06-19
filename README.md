@@ -3,36 +3,36 @@
 ````markdown
 # 🗂️ Old File Scan Recovery
 
-**Old File Scan Recovery** is a privacy-focused Android app for scanning, recovering, and securely managing deleted or lost files (images, videos, audio, documents, and more) from device storage.
+##Old File Scan Recovery## is a privacy-focused Android app for scanning, recovering, and securely managing deleted or lost files (images, videos, audio, documents, and more) from device storage.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Deep File Recovery**: Scan for deleted files, file fragments, and residual data in both public and system directories.  
-- 🧠 **Multi-Type Support**: Recover images, videos, audio, documents, and more.  
-- 🔐 **Secure Vault**: Encrypt and store sensitive files using advanced AES encryption.  
-- 🧭 **User-Friendly Interface**: Modern UI with folder grouping, previews, and batch recovery.  
-- 🔒 **Privacy First**: All operations are performed locally; no data leaves your device.  
-- ⚙️ **Comprehensive Permissions**: Uses only the permissions needed for effective recovery.
+- 🔍 ##Deep File Recovery##: Scan for deleted files, file fragments, and residual data in both public and system directories.  
+- 🧠 ##Multi-Type Support##: Recover images, videos, audio, documents, and more.  
+- 🔐 ##Secure Vault##: Encrypt and store sensitive files using advanced AES encryption.  
+- 🧭 ##User-Friendly Interface##: Modern UI with folder grouping, previews, and batch recovery.  
+- 🔒 ##Privacy First##: All operations are performed locally; no data leaves your device.  
+- ⚙️ ##Comprehensive Permissions##: Uses only the permissions needed for effective recovery.
 
 ---
 
 ## 📲 Getting Started
 
-1. **Clone the repository:**
+1. ##Clone the repository:##
 
    ```bash
    git clone https://github.com/your-username/old-file-scan-recovery.git
 ````
 
-2. **Install dependencies:**
+2. ##Install dependencies:##
 
    ```bash
    flutter pub get
    ```
 
-3. **Run the app:**
+3. ##Run the app:##
 
    ```bash
    flutter run
@@ -44,20 +44,20 @@
 
 ### 1. Scanning
 
-* Select the file type (images, videos, audio, documents).
-* Tap **"Start Scan"** to begin.
-* The app recursively scans storage and groups found files by folder.
+ Select the file type (images, videos, audio, documents).
+ Tap ##"Start Scan"## to begin.
+ The app recursively scans storage and groups found files by folder.
 
 ### 2. Preview & Recovery
 
-* Browse scan results and preview files.
-* Select files and tap **"Recover"** to choose a destination.
-* Files are copied to a secure app folder (`OldFileManager`).
+ Browse scan results and preview files.
+ Select files and tap ##Recover## to choose a destination.
+ Files are copied to a secure app folder (`OldFileManager`).
 
 ### 3. Secure Vault
 
-* Move sensitive files to the encrypted vault.
-* Files are encrypted using **AES** and accessible only with your password.
+ Move sensitive files to the encrypted vault.
+ Files are encrypted using **AES** and accessible only with your password.
 
 ---
 
@@ -101,9 +101,9 @@ Below are screenshots of the app in action:
 
 ## 📝 Documentation
 
-* 📘 [Help & Support](#)
-* 📄 [All File Permissions Explained](#)
-* 📊 [Data Collection Policy](#)
+ 📘 [Help & Support](#)
+ 📄 [All File Permissions Explained](#)
+ 📊 [Data Collection Policy](#)
 
 ---
 
@@ -125,7 +125,7 @@ See [LICENSE](./LICENSE) for full terms.
 
 ## 👤 Author
 
-**Muhammad Nouman**
+##Muhammad Nouman##
 📧 [m.nouman5710@gmail.com](mailto:m.nouman5710@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/muhammad-nouman-8460b62a3)
 💻 [GitHub](https://github.com/muhammadnouman758)
